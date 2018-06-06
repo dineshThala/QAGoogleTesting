@@ -38,7 +38,7 @@ import com.relevantcodes.extentreports.ExtentTest;
 import com.relevantcodes.extentreports.LogStatus;
 
 
-@Listeners(JyperionListener.class)
+
 public class UtilCommon {
 	static WebElement elementProcess;
 	public static WebDriver driver;
