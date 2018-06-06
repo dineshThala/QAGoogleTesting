@@ -6,7 +6,7 @@
 		<listener class-name="com.uttesh.pdfngreport.PDFReportListener" />
 		<listener class-name="PageObjects.AnnotationTransformer" />
 	</listeners>
-	<test name="FlexTest">
+	<test name="QATest">
 		<classes>
 			<class name="Application.GoogleExtensions_Test" />
 		</classes>
