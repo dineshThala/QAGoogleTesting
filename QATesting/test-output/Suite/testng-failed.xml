@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <parameter name="pdfngreport-properties" value="Resources/pdfngreport.properties"/>
+  <listeners>
+    <listener class-name="com.uttesh.pdfngreport.PDFReportListener"/>
+    <listener class-name="PageObjects.AnnotationTransformer"/>
+  </listeners>
+  <test thread-count="5" name="FlexTest(failed)">
+    <classes>
+      <class name="Application.GoogleExtensions_Test">
+        <methods>
+          <include name="afterSuiteMethod"/>
+          <include name="SetUpTestData"/>
+          <include name="tearDown"/>
+          <include name="TC003_CheckSettingDetails"/>
+        </methods>
+      </class> <!-- Application.GoogleExtensions_Test -->
+    </classes>
+  </test> <!-- FlexTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<parameter name="pdfngreport-properties" value="Resources/pdfngreport.properties" />
+	<listeners>
+		<listener class-name="com.uttesh.pdfngreport.PDFReportListener" />
+		<listener class-name="PageObjects.AnnotationTransformer" />
+	</listeners>
+	<test name="FlexTest">
+		<classes>
+			<class name="Application.GoogleExtensions_Test" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

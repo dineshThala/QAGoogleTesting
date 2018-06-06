@@ -1,0 +1,31 @@
+2018-06-05 18:23:08,984 INFO  [Log] TestCaseID:TC003_CheckSettingDetails 
+2018-06-05 18:23:08,984 INFO  [Log] TestCaseDesc: CASE:Search 
+2018-06-05 18:23:08,984 INFO  [Log] Environment: Automation Testing 
+2018-06-05 18:23:08,984 INFO  [Log] Browser: chrome 
+2018-06-05 18:23:08,984 INFO  [Log] URL: https://chrome.google.com/webstore/category/extensions?hl=en 
+2018-06-05 18:23:08,984 INFO  [Log] Title: GoogleExtensionSetting  
+2018-06-05 18:23:08,984 INFO  [Log] FirstName:  
+2018-06-05 18:23:08,984 INFO  [Log] LastName:  
+2018-06-05 18:23:08,984 INFO  [Log] Phone number:  
+2018-06-05 18:23:08,984 INFO  [Log] ZipCode:  
+2018-06-05 18:23:08,984 INFO  [Log] Vin:  
+2018-06-05 18:23:08,984 INFO  [Log] Mileage:  
+2018-06-05 18:23:08,984 INFO  [Log] **************************************************************************************** 
+2018-06-05 18:23:08,985 INFO  [Log] **************************************************************************************** 
+2018-06-05 18:23:08,985 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   CASE:Search TC003_CheckSettingDetails   $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-05 18:23:08,985 INFO  [Log] **************************************************************************************** 
+2018-06-05 18:23:08,985 INFO  [Log] **************************************************************************************** 
+2018-06-05 18:23:08,985 INFO  [Log] Launching chrome Browser 
+2018-06-05 18:23:17,483 INFO  [Log] Navigating to URL: https://chrome.google.com/webstore/category/extensions?hl=en 
+2018-06-05 18:23:21,227 INFO  [Log] Page title: - Chrome Web Store - Extensions 
+2018-06-05 18:23:28,570 INFO  [Log] Check the details in Settings Button 
+2018-06-05 18:23:28,927 INFO  [Log] Click in SettingsButton 
+2018-06-05 18:23:33,388 ERROR [Log] The 'My Extensions & Apps' button not displayed 
+2018-06-05 18:23:38,041 INFO  [Log] *******SysOut: Closing Browser******* 
+2018-06-05 18:23:38,041 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX         -E---N---D-         XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-05 18:23:38,041 INFO  [Log] X 
+2018-06-05 18:23:38,041 INFO  [Log] X 
+2018-06-05 18:23:38,041 INFO  [Log] X 
+2018-06-05 18:23:38,041 INFO  [Log] X 
+2018-06-05 18:23:40,986 INFO  [FOUserAgent] Rendered page #1. 
+2018-06-05 18:23:40,993 INFO  [FOUserAgent] Rendered page #2. 
